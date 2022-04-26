@@ -1,0 +1,13 @@
+.display{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2em;
+}
+.view-more{
+  text-decoration: none;
+  color: 	#23d180;
+}
+.view-more:hover{
+  color: rgb(218, 35, 35);
+}

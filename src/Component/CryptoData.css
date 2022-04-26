@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(248, 251, 255);
+}
+.red{
+    color: red !important;
+}
+.green{
+    color: rgb(24, 158, 24) !important;
+}
+.grey{
+    color:rgb(91, 91, 91) !important;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Lato');
+*{
+  font-family: 'Lato', sans-serif !important;
+}
+
+.input-field{
+  border: 1px solid rgba(128, 128, 128, 0.253) ;
+  border-radius: 4px;
+  padding: 5px;
+  font-size: 20px;
+  outline: none;
+  width: 400px;
+}
